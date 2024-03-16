@@ -11,7 +11,7 @@ import SwiftUI
 struct Grids_D3App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            GalleryView()
         }
     }
 }
